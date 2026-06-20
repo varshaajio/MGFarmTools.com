@@ -1,7 +1,7 @@
 # 🌾 MG Farm Tools
 
 <p align="center">
-  <img src="[https://www.mgfarmtools.com/favicon.ico](https://mgfarmtools.com/cdn/shop/files/2025-12-29-69523bbe3d9e3.webp?v=1780741043&width=200)" alt="MG Farm Tools Logo" width="120">
+  <img src="https://mgfarmtools.com/cdn/shop/files/2025-12-29-69523bbe3d9e3.webp" alt="MG Farm Tools Logo" width="120">
 </p>
 
 <p align="center">
